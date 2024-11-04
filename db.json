@@ -42,6 +42,110 @@
         "isAvailable": false,
         "message": "RSVP closed"
       }
+    },
+    {
+      "id": 4,
+      "event_name": "Data Science Bootcamp",
+      "title": "Mastering Data Science",
+      "description": "An intensive bootcamp on data science essentials, including Python, data analysis, and machine learning basics.",
+      "date": "2024-11-10T08:00:00Z",
+      "location": "TechHub, Boston",
+      "image": "https://images.unsplash.com/photo-1486591978090-58e619d37fe7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 99.99,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/data-science-bootcamp",
+        "attending": false
+      }
+    },
+    {
+      "id": 5,
+      "event_name": "Photography Expo",
+      "title": "Capture the Moment",
+      "description": "A weekend expo featuring the latest in photography tech, workshops, and networking opportunities.",
+      "date": "2024-12-01T10:00:00Z",
+      "location": "Art Center, New York",
+      "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 30.0,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/photography-expo",
+        "attending": false
+      }
+    },
+    {
+      "id": 6,
+      "event_name": "Startup Pitch Night",
+      "title": "Present Your Startup",
+      "description": "A night for startups to pitch their ideas to investors and receive feedback from industry experts.",
+      "date": "2024-12-07T18:00:00Z",
+      "location": "Innovation Hub, Chicago",
+      "image": "https://images.unsplash.com/photo-1522158637959-30385a09e0da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 0.0,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/startup-pitch",
+        "attending": false
+      }
+    },
+    {
+      "id": 7,
+      "event_name": "Blockchain Summit",
+      "title": "The Future of Decentralized Tech",
+      "description": "Dive into blockchain technology, NFTs, and crypto with industry leaders and developers.",
+      "date": "2024-11-18T09:00:00Z",
+      "location": "Convention Center, Las Vegas",
+      "image": "https://images.unsplash.com/photo-1486591978090-58e619d37fe7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 150.0,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/blockchain-summit",
+        "attending": false
+      }
+    },
+    {
+      "id": 8,
+      "event_name": "Green Tech Symposium",
+      "title": "Innovations for Sustainability",
+      "description": "A forum to discuss sustainable technology solutions for a greener future.",
+      "date": "2024-11-22T13:00:00Z",
+      "location": "Eco Center, Seattle",
+      "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 20.0,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/green-tech-symposium",
+        "attending": false
+      }
+    },
+    {
+      "id": 9,
+      "event_name": "Cooking Masterclass",
+      "title": "Italian Cuisine 101",
+      "description": "Learn how to cook authentic Italian dishes from a renowned chef.",
+      "date": "2024-11-29T17:00:00Z",
+      "location": "Culinary Arts School, New York",
+      "image": "https://images.unsplash.com/photo-1486591978090-58e619d37fe7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 60.0,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/cooking-masterclass",
+        "attending": false
+      }
+    },
+    {
+      "id": 10,
+      "event_name": "Yoga Retreat",
+      "title": "Find Your Zen",
+      "description": "A weekend retreat focused on mindfulness, meditation, and relaxation techniques.",
+      "date": "2024-12-02T08:00:00Z",
+      "location": "Wellness Center, Los Angeles",
+      "image": "https://images.unsplash.com/photo-1522158637959-30385a09e0da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 75.0,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/yoga-retreat",
+        "attending": false
+      }
     }
-  ]
-  
+]
