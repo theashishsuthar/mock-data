@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "event_name": "Flutter Workshop",
+      "title": "Beginner's Guide to Flutter",
+      "description": "Join us for an interactive workshop on building apps with Flutter. Learn the basics and create your first Flutter app.",
+      "date": "2024-11-15T10:00:00Z",
+      "location": "Online",
+      "image": "https://images.unsplash.com/photo-1486591978090-58e619d37fe7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 49.99,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/flutter-workshop-rsvp",
+        "attending": false
+      }
+    },
+    {
+      "id": 2,
+      "event_name": "Tech Conference 2024",
+      "title": "Exploring Emerging Technologies",
+      "description": "A conference focused on the latest trends in technology, featuring guest speakers from leading tech companies.",
+      "date": "2024-12-05T09:00:00Z",
+      "location": "Convention Center, San Francisco",
+      "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 199.99,
+      "rsvp": {
+        "isAvailable": true,
+        "link": "https://example.com/tech-conference-2024",
+        "attending": false
+      }
+    },
+    {
+      "id": 3,
+      "event_name": "AI and Healthcare",
+      "title": "Impact of AI on the Future of Healthcare",
+      "description": "A seminar discussing the role of AI in healthcare, featuring experts in the field and real-world applications.",
+      "date": "2024-11-20T14:00:00Z",
+      "location": "Downtown Library Auditorium",
+      "image": "https://images.unsplash.com/photo-1522158637959-30385a09e0da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 0.0,
+      "rsvp": {
+        "isAvailable": false,
+        "message": "RSVP closed"
+      }
+    }
+  ]
+  
